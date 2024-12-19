@@ -24,4 +24,14 @@ defmodule ChatAppWeb.ChatRoomChannelTest do
     broadcast_from!(socket, "broadcast", %{"some" => "data"})
     assert_push "broadcast", %{"some" => "data"}
   end
+
+  test "broadcasts new_msg to the client", %{socket: socket} do
+    broadcast_from!(socket, "new_msg", %{"body" => "hello", "user" => "test"})
+    assert_push "new_msg", %{"body" => "hello", "user" => "test"}
+  end
+
+  test "sends msg to the client", %{socket: socket} do
+    push(socket, "send_msg", %{"body" => "hello", "user" => "test"})
+    assert_broadcast "new_msg", %{body: "hello", user: "test"}
+  end
 end
