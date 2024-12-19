@@ -14,7 +14,7 @@ function App() {
     socketRef.current.onopen = () => {
       setEvents(old => [...old, "Connection established"]);
       socketRef.current?.send(JSON.stringify({
-        topic: "room:lobby",
+        topic: "chat_room:lobby",
         event: "phx_join",
         payload: {},
         ref: "1"
@@ -39,7 +39,7 @@ function App() {
     if (!message.trim()) return;
     
     socketRef.current?.send(JSON.stringify({
-      topic: "room:lobby",
+      topic: "chat_room:lobby",
       event: "send_msg",
       payload: { body: message, user: "user" },
       ref: Date.now().toString()

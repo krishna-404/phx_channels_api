@@ -1,7 +1,7 @@
 defmodule ChatApp.ChatRoomChannel do
   use Phoenix.Channel
 
-  def join("room:lobby", _params, socket) do
+  def join("chat_room:lobby", _params, socket) do
     {:ok, socket}
   end
 

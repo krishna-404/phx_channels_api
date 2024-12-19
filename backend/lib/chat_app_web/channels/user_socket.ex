@@ -2,7 +2,7 @@ defmodule ChatAppWeb.UserSocket do
   use Phoenix.Socket
 
   # Channels
-  channel "room:*", ChatApp.ChatRoomChannel
+  channel "chat_room:*", ChatAppWeb.ChatRoomChannel
 
   @impl true
   def connect(_params, socket, _connect_info) do
