@@ -15,6 +15,10 @@ defmodule ChatAppWeb.Endpoint do
     websocket: [connect_info: [session: @session_options]],
     longpoll: [connect_info: [session: @session_options]]
 
+  socket "/socket", ChatAppWeb.UserSocket,
+    websocket: true,
+    longpoll: false
+
   # Serve at "/" the static files from "priv/static" directory.
   #
   # You should set gzip to true if you are running phx.digest
@@ -47,5 +51,10 @@ defmodule ChatAppWeb.Endpoint do
   plug Plug.MethodOverride
   plug Plug.Head
   plug Plug.Session, @session_options
+
+  plug Corsica,
+    origins: ["http://localhost:5173"], # adjust for your frontend URL
+    allow_headers: ["content-type"]
+
   plug ChatAppWeb.Router
 end
