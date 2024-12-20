@@ -60,7 +60,7 @@ mix ecto.migrate
 ### Linting & Code Hygiene
 - [Credo](https://github.com/rrrene/credo) is a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
 
-- [Dialyzer](https://www.erlang.org/doc/apps/dialyzer/dialyzer.html)
+- [Dialyxir](https://github.com/jeremyjh/dialyxir) makes working with [Dialyzer](https://www.erlang.org/doc/apps/dialyzer/dialyzer.html) easy.
  is a static analysis tool that identifies software discrepancies, such as definite type errors, code that is unreachable because of programming errors, and unnecessary tests in single Erlang modules or an entire codebase.
 
  ### LiveView Components
