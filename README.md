@@ -9,9 +9,9 @@
 ## Important CLI commands
 ### Create a new project for API without LiveView & HTML
 ```bash
-mix phx.new <project_name> -—app <project_name> -—database postgres -—no-live -—no-assets -—no-html -—binary-id -—no-esbuild -—no-gettext -—no-tailwind
+mix phx.new kayaan_chat --app kayaan_chat --database postgres --no-live --no-assets --no-html --binary-id --no-esbuild --no-gettext --no-tailwind --no-mailer
 ```
-> Can use `-—no-mailer` to remove the mailer.
+> Remove `-—no-mailer` to have mailing setup.
 
 
 ### Create a new schema & migration.
