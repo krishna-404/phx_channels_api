@@ -6,6 +6,17 @@
 -  Security in Elixir list on [Reddit](https://www.reddit.com/r/elixir/comments/1hg26n0/comment/m2k7rce/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 - [Erlang Ecosystem Foundation Security WG](https://erlef.github.io/security-wg/)
 
+## Setting up Phoenix Channels
+- [Client Libraries List](https://hexdocs.pm/phoenix/channels.html#client-libraries)
+
+### Getting Phoenix.js
+```bash
+git clone https://github.com/phoenixframework/phoenix
+cd phoenix/assets
+npm i
+```
+
+
 ## Important CLI commands
 ### Create a new project for API without LiveView & HTML
 ```bash
