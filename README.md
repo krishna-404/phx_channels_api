@@ -2,8 +2,7 @@
 
 - Use [Typespecs](https://hexdocs.pm/elixir/1.12/typespecs.html) for type checking & safety.
 - Resources list - [Masters of Elixir](https://github.com/abreujp/masters-of-elixir)
-- Master list for everything Elixir - [Awesome Elixir](https://github.com/h4cc/awesome-elixir)
-> See the up-to-date libraries from Awesome Elixir [here](https://awsm-elixir.rubybox.dev)
+- Master list for everything Elixir - [Awesome Elixir](https://github.com/h4cc/awesome-elixir) <sup><i>See the up-to-date libraries [here](https://awsm-elixir.rubybox.dev)</i></sup>
 
 ## Important CLI commands
 ### Create a new project for API without LiveView & HTML
