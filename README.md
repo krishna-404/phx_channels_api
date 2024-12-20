@@ -94,6 +94,7 @@ mix ecto.migrate
 ### Profiling & Monitoring
 - [Recon](https://ferd.github.io/recon/overview.html)
 - [AppSignal](https://docs.appsignal.com/elixir)
+- [Enforcing Code Quality in Elixir](https://leandrocp.com.br/2019/06/enforcing-code-quality-in-elixir/)
 
 ## Learning Resources
 - [Handling amount with custom Ecto Types](https://fullstackphoenix.com/tutorials/handling-amount-fields-in-a-phoenix-application-with-ecto-custom-types)
