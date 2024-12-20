@@ -33,30 +33,27 @@ mix ecto.migrate
 
 ## Important Libraries
 ### CORS
-[Corsica](https://hexdocs.pm/corsica/Corsica.html)
+- [Corsica](https://hexdocs.pm/corsica/Corsica.html)
 
 
 ### Linting & Code Hygiene
-Credo is a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
-[Credo](https://github.com/rrrene/credo)
+- [Credo](https://github.com/rrrene/credo) is a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
 
-Linter for Elixir.
-Dialyzer is a static analysis tool that identifies software discrepancies, such as definite type errors, code that is unreachable because of programming errors, and unnecessary tests in single Erlang modules or an entire codebase.
-[Dialyzer](https://www.erlang.org/doc/apps/dialyzer/dialyzer.html)
-
+- [Dialyzer](https://www.erlang.org/doc/apps/dialyzer/dialyzer.html)
+ is a static analysis tool that identifies software discrepancies, such as definite type errors, code that is unreachable because of programming errors, and unnecessary tests in single Erlang modules or an entire codebase.
 
 ### Validation
-[Validate](https://hexdocs.pm/validate/readme.html)
-[ExValidator](https://github.com/vic/ex_validator)
+- [Validate](https://hexdocs.pm/validate/readme.html)
+- [ExValidator](https://github.com/vic/ex_validator)
 
 
 ## Important Tools
 ### Admin Console
-[Kaffy](https://github.com/kaffeins/kaffy)
-[Backpex](https://github.com/naymspace/backpex)
-[ExAdmin](https://github.com/smpallen99/ex_admin) <sup><i>Last updated Apr '18</i></sup>
+- [Kaffy](https://github.com/kaffeins/kaffy)
+- [Backpex](https://github.com/naymspace/backpex)
+- [ExAdmin](https://github.com/smpallen99/ex_admin) <sup><i>Last updated Apr '18</i></sup>
 
 
 ## Learning Resources
 ### Phoenix Guides
-[Phoenix from hexdocs](https://hexdocs.pm/phoenix)
+- [Phoenix from hexdocs](https://hexdocs.pm/phoenix)
