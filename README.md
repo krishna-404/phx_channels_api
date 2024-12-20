@@ -55,6 +55,7 @@ mix ecto.migrate
 ## Important Libraries
 ### CORS
 - [Corsica](https://hexdocs.pm/corsica/Corsica.html)
+- [Cors Plug](https://github.com/mschae/cors_plug) <sup><i>last updated in Apr '22</i></sup>
 
 
 ### Linting & Code Hygiene
