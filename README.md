@@ -8,6 +8,9 @@
 
 ## Setting up Phoenix Channels
 - [Client Libraries List](https://hexdocs.pm/phoenix/channels.html#client-libraries)
+- [Client in Rust](https://github.com/liveview-native/phoenix-channels-client)
+- [Phoenix Channels with React Redux](https://github.com/trixtateam/phoenix-to-redux)
+- [Phoenix Channels with React SPA](https://github.com/syamsulmj/elixir-and-react-spa-websocket/blob/master/react-phoenix-websocket/src/App.js)
 
 ### Getting Phoenix.js
 ```bash
@@ -73,6 +76,7 @@ mix ecto.migrate
 ### Validation
 - [Validate](https://hexdocs.pm/validate/readme.html)
 - [ExValidator](https://github.com/vic/ex_validator)
+- [ChannelSpec](https://github.com/felt/channel_spec) - Validate Socket Input Params
 
 
 ## Important Tools
