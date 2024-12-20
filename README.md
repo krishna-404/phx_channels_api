@@ -72,7 +72,6 @@ mix ecto.migrate
 
 ### Profiling & Monitoring
 - [Recon](https://ferd.github.io/recon/overview.html)
-- [Prometheus](https://hexdocs.pm/prometheus/overview.html)
 - [AppSignal](https://docs.appsignal.com/elixir)
 
 ## Learning Resources
