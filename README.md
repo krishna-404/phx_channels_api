@@ -74,15 +74,17 @@ mix ecto.migrate
 - [ExAdmin](https://github.com/smpallen99/ex_admin) <sup><i>Last updated Apr '18</i></sup>
 
 ### Email templating
-- Premailex[https://www.hex.pm/packages/premailex]
+- [Premailex](https://www.hex.pm/packages/premailex)
 
 ### Profiling & Monitoring
 - [Recon](https://ferd.github.io/recon/overview.html)
 - [AppSignal](https://docs.appsignal.com/elixir)
 
 ## Learning Resources
-### Sending Emails
+- [Handling amount with custom Ecto Types](https://fullstackphoenix.com/tutorials/handling-amount-fields-in-a-phoenix-application-with-ecto-custom-types)
+### Email sending
 - [Swoosh with Premailex](https://fullstackphoenix.com/tutorials/implementing-html-emails-in-phoenix-with-swoosh-and-premailex)
+- [Tailwind styled emails](https://fullstackphoenix.com/tutorials/tailwind-emails-phoenix-swoosh)
 
 ### Phoenix Guides
 - [Phoenix from hexdocs](https://hexdocs.pm/phoenix)
