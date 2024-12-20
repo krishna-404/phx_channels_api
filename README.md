@@ -65,16 +65,25 @@ mix ecto.migrate
 
 
 ## Important Tools
+### RBAC
+- https://github.com/casbin/casbin-ex
+
 ### Admin Console
 - [Kaffy](https://github.com/kaffeins/kaffy)
 - [Backpex](https://github.com/naymspace/backpex)
 - [ExAdmin](https://github.com/smpallen99/ex_admin) <sup><i>Last updated Apr '18</i></sup>
+
+### Email templating
+- Premailex[https://www.hex.pm/packages/premailex]
 
 ### Profiling & Monitoring
 - [Recon](https://ferd.github.io/recon/overview.html)
 - [AppSignal](https://docs.appsignal.com/elixir)
 
 ## Learning Resources
+### Sending Emails
+- [Swoosh with Premailex](https://fullstackphoenix.com/tutorials/implementing-html-emails-in-phoenix-with-swoosh-and-premailex)
+
 ### Phoenix Guides
 - [Phoenix from hexdocs](https://hexdocs.pm/phoenix)
 
