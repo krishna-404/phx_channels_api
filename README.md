@@ -57,6 +57,9 @@ mix ecto.migrate
 - [Corsica](https://hexdocs.pm/corsica/Corsica.html)
 - [Cors Plug](https://github.com/mschae/cors_plug) <sup><i>last updated in Apr '22</i></sup>
 
+### Write Logs to file
+- [LogFileBackend](https://github.com/onkel-dirtus/logger_file_backend)
+
 
 ### Linting & Code Hygiene
 - [Credo](https://github.com/rrrene/credo) is a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
