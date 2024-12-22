@@ -74,12 +74,16 @@ mix ecto.migrate
 - [Ecto](https://hexdocs.pm/ecto)
 > Use [embedded schemas](https://hexdocs.pm/ecto/embedded-schemas.html) for nested data to be stored as json/jsonb/array.
 
+#### Multi Tenancy 
+- [Multi Tenancy With Multiple Schemas](https://github.com/ateliware/triplex)
+
 ### Telemetry
 - [Telemetry](https://hexdocs.pm/telemetry/readme.html)
 
 ### Validation
 - [Validate](https://hexdocs.pm/validate/readme.html)
 - [ExValidator](https://github.com/vic/ex_validator)
+- [Vex](https://github.com/CargoSense/vex)
 - [ChannelSpec](https://github.com/felt/channel_spec) - Validate Socket Input Params
 
 
