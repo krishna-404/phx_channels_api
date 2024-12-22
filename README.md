@@ -82,9 +82,9 @@ mix ecto.migrate
 
 ### Validation
 - [Validate](https://hexdocs.pm/validate/readme.html)
-- [ExValidator](https://github.com/vic/ex_validator)
 - [Vex](https://github.com/CargoSense/vex)
 - [ChannelSpec](https://github.com/felt/channel_spec) - Validate Socket Input Params
+- [ExValidator](https://github.com/costaraphael/ex_validator)<sup><i>Last update Apr '17</i></sup>
 
 
 ## Important Tools
