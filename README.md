@@ -106,6 +106,8 @@ mix ecto.migrate
 
 ## Learning Resources
 - [Handling amount with custom Ecto Types](https://fullstackphoenix.com/tutorials/handling-amount-fields-in-a-phoenix-application-with-ecto-custom-types)
+- [Multi Tenancy with Multiple schemas](https://www.reddit.com/r/elixir/comments/1ep1uhu/multi_tenancy_with_elixir_and_phoenix/)
+  
 ### Email sending
 - [Swoosh with Premailex](https://fullstackphoenix.com/tutorials/implementing-html-emails-in-phoenix-with-swoosh-and-premailex)
 - [Tailwind styled emails](https://fullstackphoenix.com/tutorials/tailwind-emails-phoenix-swoosh)
