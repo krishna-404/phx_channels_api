@@ -77,6 +77,9 @@ mix ecto.migrate
 #### Multi Tenancy 
 - [Multi Tenancy With Multiple Schemas](https://github.com/ateliware/triplex)
 
+### Security
+- [Cloak Ecto](https://hexdocs.pm/cloak_ecto/readme.html) helps to encrypt values when storing in database.
+
 ### Telemetry
 - [Telemetry](https://hexdocs.pm/telemetry/readme.html)
 
