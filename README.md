@@ -5,6 +5,7 @@
 - Master list for everything Elixir - [Awesome Elixir](https://github.com/h4cc/awesome-elixir) <sup><i>See the up-to-date libraries [here](https://awsm-elixir.rubybox.dev)</i></sup>
 -  Security in Elixir list on [Reddit](https://www.reddit.com/r/elixir/comments/1hg26n0/comment/m2k7rce/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 - [Erlang Ecosystem Foundation Security WG](https://erlef.github.io/security-wg/)
+- [Handling env variables](https://www.sean-lawrence.com/handling-environment-variables-in-elixir-phoenix-applications)
 
 ## Setting up Phoenix Channels
 - [Client Libraries List](https://hexdocs.pm/phoenix/channels.html#client-libraries)
