@@ -94,6 +94,7 @@ mix ecto.migrate
 ## Important Tools
 ### RBAC
 - https://github.com/casbin/casbin-ex
+- https://github.com/schrockwell/bodyguard
 
 ### Admin Console
 - [Kaffy](https://github.com/kaffeins/kaffy)
