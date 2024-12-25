@@ -110,6 +110,7 @@ mix ecto.migrate
 - [AppSignal](https://docs.appsignal.com/elixir)
 - [Enforcing Code Quality in Elixir](https://leandrocp.com.br/2019/06/enforcing-code-quality-in-elixir/)
 - [Track Phoenix Channels](https://hexdocs.pm/phoenix_pubsub/Phoenix.Tracker.html)
+- [Tsung](http://tsung.erlang-projects.org/) Is a benchmarking tool for sockets. Gary Rennie shows how to [benchmark WebSockets using Tsung tool](http://www.archive.elixirconf.eu/elixirconf2016/gary-rennie)
 
 ## Learning Resources
 - [Handling amount with custom Ecto Types](https://fullstackphoenix.com/tutorials/handling-amount-fields-in-a-phoenix-application-with-ecto-custom-types)
