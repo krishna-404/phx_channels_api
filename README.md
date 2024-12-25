@@ -122,6 +122,9 @@ mix ecto.migrate
 ### Phoenix Guides
 - [Phoenix from hexdocs](https://hexdocs.pm/phoenix)
 
+### Testing multiple channels 
+- [Testing Phoenix Channels](http://graemehill.ca/testing-phoenix-channels/)
+
 ### Profiling & Monitoring
 - [Profiling in Elixir Blog](https://pulkitgoyal.in/profiling-in-elixir)
 
