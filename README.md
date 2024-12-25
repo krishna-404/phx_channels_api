@@ -1,6 +1,6 @@
 # Learning Elixir
 
-- Use [Typespecs](https://hexdocs.pm/elixir/1.12/typespecs.html) for type checking & safety. [TypedStruct](https://hexdocs.pm/typedstruct/readme.html) for easier struct definitions. [typed_struct](https://hexdocs.pm/typed_struct_uberbrodt/TypedStruct.html) is not maintained.
+- Use [Typespecs](https://hexdocs.pm/elixir/1.12/typespecs.html) for type checking & safety. [TypedStruct](https://hexdocs.pm/typedstruct/readme.html) for easier struct definitions. [typed_struct](https://hexdocs.pm/typed_struct_uberbrodt/TypedStruct.html)<sup><i>is not maintained</i></sup>
 - Resources list - [Masters of Elixir](https://github.com/abreujp/masters-of-elixir)
 - Master list for everything Elixir - [Awesome Elixir](https://github.com/h4cc/awesome-elixir) <sup><i>See the up-to-date libraries [here](https://awsm-elixir.rubybox.dev)</i></sup>
 -  Security in Elixir list on [Reddit](https://www.reddit.com/r/elixir/comments/1hg26n0/comment/m2k7rce/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
@@ -12,6 +12,7 @@
 - [Client in Rust](https://github.com/liveview-native/phoenix-channels-client)
 - [Phoenix Channels with React Redux](https://github.com/trixtateam/phoenix-to-redux)
 - [Phoenix Channels with React SPA](https://github.com/syamsulmj/elixir-and-react-spa-websocket/blob/master/react-phoenix-websocket/src/App.js)
+- [Phoenix.js](https://github.com/phoenixframework/phoenix/blob/v1.3/assets/js/phoenix.js)<sup><i>Might be outdated</i></sup>
 
 ### Getting Phoenix.js
 ```bash
