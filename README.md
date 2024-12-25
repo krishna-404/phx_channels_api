@@ -108,6 +108,7 @@ mix ecto.migrate
 - [Recon](https://ferd.github.io/recon/overview.html)
 - [AppSignal](https://docs.appsignal.com/elixir)
 - [Enforcing Code Quality in Elixir](https://leandrocp.com.br/2019/06/enforcing-code-quality-in-elixir/)
+- [Track Phoenix Channels](https://hexdocs.pm/phoenix_pubsub/Phoenix.Tracker.html)
 
 ## Learning Resources
 - [Handling amount with custom Ecto Types](https://fullstackphoenix.com/tutorials/handling-amount-fields-in-a-phoenix-application-with-ecto-custom-types)
@@ -122,11 +123,9 @@ mix ecto.migrate
 ### Phoenix Guides
 - [Phoenix from hexdocs](https://hexdocs.pm/phoenix)
 
-### Testing multiple channels 
-- [Testing Phoenix Channels](http://graemehill.ca/testing-phoenix-channels/)
-
 ### Profiling & Monitoring
 - [Profiling in Elixir Blog](https://pulkitgoyal.in/profiling-in-elixir)
 
 ### Testing
 - [Testing WebSocket Clients with Mock Server](https://pulkitgoyal.in/testing-websocket-clients-in-elixir-with-a-mock-server)
+- [Testing Phoenix Channels](http://graemehill.ca/testing-phoenix-channels/)
