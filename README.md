@@ -112,6 +112,9 @@ mix ecto.migrate
 - [Track Phoenix Channels](https://hexdocs.pm/phoenix_pubsub/Phoenix.Tracker.html)
 - [Tsung](http://tsung.erlang-projects.org/) Is a benchmarking tool for sockets. Gary Rennie shows how to [benchmark WebSockets using Tsung tool](http://www.archive.elixirconf.eu/elixirconf2016/gary-rennie)
 
+### Soft Delete
+- [Ecto Soft Delete](https://github.com/revelrylabs/ecto_soft_delete)
+
 ## Learning Resources
 - [Handling amount with custom Ecto Types](https://fullstackphoenix.com/tutorials/handling-amount-fields-in-a-phoenix-application-with-ecto-custom-types)
   
@@ -127,6 +130,10 @@ mix ecto.migrate
 
 ### Profiling & Monitoring
 - [Profiling in Elixir Blog](https://pulkitgoyal.in/profiling-in-elixir)
+
+### Soft deletes
+- [Soft Deletes by Ecto](https://dashbit.co/blog/soft-deletes-with-ecto)
+- [Soft deltes at PostgreSQL](https://evilmartians.com/chronicles/soft-deletion-with-postgresql-but-with-logic-on-the-database#cascade-deletes)
 
 ### Testing
 - [Testing WebSocket Clients with Mock Server](https://pulkitgoyal.in/testing-websocket-clients-in-elixir-with-a-mock-server)
