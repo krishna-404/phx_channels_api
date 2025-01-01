@@ -28,6 +28,7 @@ npm i
 mix phx.new kayaan_chat --app kayaan_chat --database postgres --no-live --no-assets --no-html --binary-id --no-esbuild --no-gettext --no-tailwind --no-mailer
 ```
 > Remove `-—no-mailer` to have mailing setup.
+> Dont use `--no-assets` flag. [Many things depend on it](https://community.fly.io/t/unable-to-deploy-phoenix-app-without-assets/3798/4).
 
 
 ### Create a new schema & migration.
