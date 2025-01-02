@@ -25,7 +25,7 @@ npm i
 ## Important CLI commands
 ### Create a new project for API without LiveView & HTML
 ```bash
-mix phx.new kayaan_chat --app kayaan_chat --database postgres --no-live --no-assets --no-html --binary-id --no-esbuild --no-gettext --no-tailwind --no-mailer
+mix phx.new kayaan_chat --app kayaan_chat --database postgres --no-live --no-html --binary-id --no-esbuild --no-gettext --no-tailwind --no-mailer
 ```
 > Remove `-—no-mailer` to have mailing setup.
 > Dont use `--no-assets` flag. [Many things depend on it](https://community.fly.io/t/unable-to-deploy-phoenix-app-without-assets/3798/4).
@@ -140,3 +140,6 @@ mix ecto.migrate
 ### Testing
 - [Testing WebSocket Clients with Mock Server](https://pulkitgoyal.in/testing-websocket-clients-in-elixir-with-a-mock-server)
 - [Testing Phoenix Channels](http://graemehill.ca/testing-phoenix-channels/)
+
+### Hosting
+- [On Digital Ocean](https://bjornbr.is/deploying-elixir-and-phoenix/)
