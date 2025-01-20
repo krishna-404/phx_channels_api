@@ -119,7 +119,6 @@ mix ecto.migrate
 ## Learning Resources
 - [Handling amount with custom Ecto Types](https://fullstackphoenix.com/tutorials/handling-amount-fields-in-a-phoenix-application-with-ecto-custom-types)
 - [API versioning strategies in Phoenix](https://web.archive.org/web/20210309052043/https://elviovicosa.com/freebies/versioned-apis-with-phoenix-by-elvio-vicosa.pdf)
-- [PETAL stack with TypeScript](https://disusered.com/blog/phoenix-with-typescript/)
   
 ### Email sending
 - [Swoosh with Premailex](https://fullstackphoenix.com/tutorials/implementing-html-emails-in-phoenix-with-swoosh-and-premailex)
@@ -140,6 +139,10 @@ mix ecto.migrate
 
 ### Swagger
 - [Foundational setup of swagger](https://swagger.io/blog/api-development/generate-api-documentation-effortlessly-from-your/)
+
+### PETAL stack with Typescript
+- [setup](https://disusered.com/blog/phoenix-with-typescript/)
+- [Video](https://elixirforum.com/t/getting-started-with-typescript-in-your-phoenix-projects/61122)
 
 ### Testing
 - [Testing WebSocket Clients with Mock Server](https://pulkitgoyal.in/testing-websocket-clients-in-elixir-with-a-mock-server)
