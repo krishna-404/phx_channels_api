@@ -108,10 +108,19 @@ mix ecto.migrate
 
 ### Profiling & Monitoring
 - [Recon](https://ferd.github.io/recon/overview.html)
-- [AppSignal](https://docs.appsignal.com/elixir)
 - [Enforcing Code Quality in Elixir](https://leandrocp.com.br/2019/06/enforcing-code-quality-in-elixir/)
 - [Track Phoenix Channels](https://hexdocs.pm/phoenix_pubsub/Phoenix.Tracker.html)
 - [Tsung](http://tsung.erlang-projects.org/) Is a benchmarking tool for sockets. Gary Rennie shows how to [benchmark WebSockets using Tsung tool](http://www.archive.elixirconf.eu/elixirconf2016/gary-rennie)
+
+### Observability & Monitoring
+- [Alternatives](https://signoz.io/comparisons/sentry-alternatives/)
+- [AppSignal](https://docs.appsignal.com/elixir)
+- [Appsignal tracking errors](https://blog.appsignal.com/2024/07/09/track-errors-in-phoenix-for-elixir-with-appsignal.html)
+- [Sentry Docs](https://docs.sentry.io/platforms/elixir/)
+- [Event Filters in Sentry](https://medium.com/wttj-tech/observability-reducing-noise-in-elixir-applications-5bd39d494101)
+- [Sentry & Open Telemetry](https://ananthakumaran.in/2022/06/11/sentry-performance-monitoring-for-elixir.html)
+- [Erroro tracker in Elixir](https://www.youtube.com/watch?v=TNmSVjGyZx0)
+- [Grafana & Promotheus Observability in Elixir](https://www.youtube.com/watch?v=98kYFy6nGXs)
 
 ### Soft Delete
 - [Ecto Soft Delete](https://github.com/revelrylabs/ecto_soft_delete)
@@ -143,6 +152,9 @@ mix ecto.migrate
 ### PETAL stack with Typescript
 - [setup](https://disusered.com/blog/phoenix-with-typescript/)
 - [Video](https://elixirforum.com/t/getting-started-with-typescript-in-your-phoenix-projects/61122)
+
+### Deployment
+- [Debugging prod server locally](https://stackoverflow.com/a/47417932/13305008)
 
 ### Testing
 - [Testing WebSocket Clients with Mock Server](https://pulkitgoyal.in/testing-websocket-clients-in-elixir-with-a-mock-server)
